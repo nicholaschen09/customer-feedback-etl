@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+beautifulsoup4
+textblob
+sqlalchemy
