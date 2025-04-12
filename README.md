@@ -1,4 +1,4 @@
-# Customer Feedback ETL Project
+# Customer Feedback ETL Pipeline
 
 This project focuses on the aggregation and analysis of customer feedback using an ETL (Extract, Transform, Load) pipeline. The goal is to collect feedback from various sources, process it, and generate insights that can help improve customer satisfaction.
 
